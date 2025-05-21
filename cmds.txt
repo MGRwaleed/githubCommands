@@ -1,0 +1,7 @@
+This is todays first task,list of commands 
+1) mkdir
+2)touch
+3)cd
+4)cd ..
+5)pwd
+etc
